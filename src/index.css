@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Poppins:wght@200&family=Press+Start+2P&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #17103a;
+    font-family: 'montserrat';
+}
